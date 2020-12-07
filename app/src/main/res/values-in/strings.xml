@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Let\'s Watch</string>
+    <string name="title_home">Film</string>
+    <string name="title_dashboard">Acara Tv</string>
+    <string name="title_notifications">Favorit</string>
+    <string name="judul_movie">Judul Movie</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="realease">Release</string>
+    <string name="runtime">Runtime</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="movie">Movie</string>
+    <string name="change_language_settings">Ganti Bahasa</string>
+    <string name="top_rated_movie">Top Rated Movie</string>
+    <string name="popular_movie">Popular Movie</string>
+    <string name="now_playing_movie">Now Playing Movie</string>
+    <string name="tv_airing_today">Tv Airing Today</string>
+    <string name="tv_on_the_air">Tv On The Air</string>
+    <string name="popular_tv_shows">Popular Tv Shows</string>
+    <string name="login">Login</string>
+    <string name="nomor_hp">Nomor HP</string>
+    <string name="password">Password</string>
+    <string name="handphone">Handphone</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="next">Next</string>
+    <string name="username">Username</string>
+    <string name="full_name">Full Name</string>
+    <string name="code_otp">Code OTP</string>
+    <string name="verifikasi_otp">Verifikasi OTP</string>
+    <string name="otp_code_text">Code</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Enter one time password sent on +923332225522</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+    <string name="powered_by_majesty">Powered By Majesty</string>
+    <string name="download_poster">Download Poster</string>
+</resources>

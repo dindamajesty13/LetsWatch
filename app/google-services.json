@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "384585178618",
+    "firebase_url": "https://lets-watch-c8427-default-rtdb.firebaseio.com",
+    "project_id": "lets-watch-c8427",
+    "storage_bucket": "lets-watch-c8427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384585178618:android:2e384e92aff6d03bbc9843",
+        "android_client_info": {
+          "package_name": "com.majesty.letswatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384585178618-udh4ucfhr5chndfr4u3cipqoin5samnj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.majesty.letswatch",
+            "certificate_hash": "2c579a20f782f37c160cd1753a9f530802f294cd"
+          }
+        },
+        {
+          "client_id": "384585178618-rgvt528q0vas8cmmnqfaktagegg8noce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyqyD2cSk-tqbnzQONPi_BuWZMDEi0GOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384585178618-rgvt528q0vas8cmmnqfaktagegg8noce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
